@@ -1,0 +1,26 @@
+{
+  "_note": "Fictional company and numbers, created for illustration only.",
+  "company": "Northwind Components Ltd (fictional)",
+  "currency": "GBP m",
+  "valuation_date": "2026-12-31",
+  "forecast_years": [2027, 2028, 2029, 2030, 2031],
+  "revenue": [120.0, 129.6, 138.7, 147.0, 154.4],
+  "ebit_margin": [0.140, 0.145, 0.150, 0.150, 0.150],
+  "tax_rate": 0.25,
+  "da_pct_revenue": 0.040,
+  "capex_pct_revenue": 0.050,
+  "nwc_pct_revenue": 0.120,
+  "base_year_revenue": 111.0,
+  "wacc_inputs": {
+    "risk_free_rate": 0.042,
+    "equity_beta": 1.10,
+    "equity_risk_premium": 0.055,
+    "pre_tax_cost_of_debt": 0.065,
+    "market_value_equity": 210.0,
+    "market_value_debt": 60.0
+  },
+  "terminal_growth": 0.020,
+  "mid_year_convention": false,
+  "net_debt": 48.0,
+  "diluted_shares_m": 25.0
+}

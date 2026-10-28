@@ -1,0 +1,17 @@
+{
+  "_note": "Figures as reported in the (fictional) colleague's Excel model, exported for review.",
+  "fcff": [
+    12.48,
+    13.95,
+    15.31,
+    16.06,
+    16.71
+  ],
+  "wacc": 0.09417,
+  "sum_pv_fcff": 56.61,
+  "terminal_value": 229.86,
+  "pv_terminal_value": 133.96,
+  "enterprise_value": 190.57,
+  "equity_value": 142.57,
+  "value_per_share": 5.7
+}
